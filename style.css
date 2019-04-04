@@ -1,0 +1,58 @@
+body {
+    font-style: normal;
+    font-family: Cambria;
+    background-color: rgb(41, 91, 148);
+
+}
+
+
+img {
+    display: block;
+    margin-left: 21%;
+    margin-right: auto;
+    margin-top: 0%
+}
+div.bio {
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    line-height: 0.2;
+    font-size: 30px;
+    margin-left: 5%;
+    font-style: inherit;
+    color: bisque;
+    
+
+}
+a {
+    color: rgb(31, 197, 67);
+}
+
+.name {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ol {
+    line-height: 2.5;
+    margin-right: 42%;
+
+    
+}
+li {
+    color: lightgoldenrodyellow;
+}
+.membership {
+    color:lightgoldenrodyellow;
+}
+.work {
+    position: absolute;
+    left: 650px;
+    bottom: 475px;
+    line-height: 2.5;
+    margin-right: 25%;
+    color: lightgoldenrodyellow;
+    
+
+
+}
